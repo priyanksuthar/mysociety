@@ -1,0 +1,6 @@
+*.pyc
+**/migrations/**
+media/
+!**/migrations/__init__.py
+.env
+.vscode/
